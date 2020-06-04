@@ -1,5 +1,7 @@
 #!/bin/bash
 #nub gweh bang
+#ane edit ulang ya bang
+#Script create by PRSTY
 
 echo "
 
