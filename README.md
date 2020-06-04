@@ -1,13 +1,16 @@
 # sms
-Free SMS Darurat tanpa kuota
-Hanya untuk TELKOMSEL
-Gunakan pada kondisi darurat
+Free SMS Darurat tanpa kuota<br>
+Hanya untuk TELKOMSEL<br>
+Gunakan pada kondisi darurat<br>
 <br>
 • Usahakan Pulsa Rp 0<br>
 • Pastikan sudah menginstal plugin Termux:API<br>
 Link https://play.google.com/store/apps/details?id=com.termux.api
 
 • Step by step
+
+Instal Termux:API di Playstore, lalu buka Termux
+
 $pkg install termux-api
 
 $pkg install git
