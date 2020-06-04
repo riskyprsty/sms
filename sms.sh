@@ -1,6 +1,6 @@
 #!/bin/bash
 #nub gweh bang
-#script cuma echo doang
+
 echo "
 
   _____ __  __  _____ ______             
